@@ -1,0 +1,9 @@
+                                                                                                                                                                                                                                                                                    
+# ignore everything except the specified files and directories
+*                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                
+# keep the bellow                                                                                                                                                                                                                                                                      
+!.gitignore
+!CLAUDE.md                                                                                                                                                                                                                                                                                      
+!.claude/           
+!.claude/**
