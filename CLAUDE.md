@@ -23,5 +23,3 @@ summaries/
     ├── categories.md
     └── contradictions.md
 ```
-
-## Workflow
